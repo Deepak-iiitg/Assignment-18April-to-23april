@@ -1,0 +1,6 @@
+
+ArrayList fsat for accesing element but it is slow for adding element and deleting element.
+LinkedList slow for accesing element but it is fast for adding and deleting element.
+
+conclusion :- if we need more insertion and deletion operation , we should use LinkedList.
+              if we need only acces element then we should use ArrayList.
